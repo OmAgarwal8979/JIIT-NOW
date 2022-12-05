@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/siddharth18235/Jiit-Blog.git"
+    "url": "git+https://github.com/OmAgarwal8979/JIIT-NOW"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/siddharth18235/Jiit-Blog/issues"
+    "url": "https://github.com/OmAgarwal8979/JIIT-NOW/issues"
   },
-  "homepage": "https://github.com/siddharth18235/Jiit-Blog#readme",
+  "homepage": "https://github.com/OmAgarwal8979/JIIT-NOW#readme",
   "dependencies": {
     "concurrently": "^7.4.0"
   }
